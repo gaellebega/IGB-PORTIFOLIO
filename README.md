@@ -1,2 +1,2 @@
-# IGB-PORTIFOLIO
-this is my personal portifolio which includes everything and explains everything about my journey, project done and more
+# IGB-PORTIFOLIO💙💙
+this is my personal portifolio which includes everything and explains everything about my journey, project done and more...
