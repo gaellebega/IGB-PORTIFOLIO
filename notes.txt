@@ -1,0 +1,1 @@
+when you wanna change youe file in any other location then you have to say like input from where then the output to where?

@@ -1,0 +1,1 @@
+// trigger auto compliation of the tailwindcss classes

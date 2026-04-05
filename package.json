@@ -1,0 +1,25 @@
+{
+  "name": "igb-portifolio",
+  "version": "1.0.0",
+  "description": "this is my personal portifolio which includes everything and explains everything about my journey, project done and more...",
+  "homepage": "https://github.com/gaellebega/IGB-PORTIFOLIO#readme",
+  "bugs": {
+    "url": "https://github.com/gaellebega/IGB-PORTIFOLIO/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaellebega/IGB-PORTIFOLIO.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.2.2",
+    "tailwindcss": "^4.2.2"
+  }
+}
